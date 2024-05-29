@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLops-zoomcamp/02-experiment-tracking/homework/mlruns/0/f26b57d831c74cc1a830aa18e14d9274/artifacts
+end_time: 1717012946584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f26b57d831c74cc1a830aa18e14d9274
+run_name: exultant-colt-801
+run_uuid: f26b57d831c74cc1a830aa18e14d9274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717012930898
+status: 3
+tags: []
+user_id: codespace
